@@ -1,0 +1,11 @@
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\obj\Debug\netcoreapp2.2\SqlInjection.csprojAssemblyReference.cache
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\obj\Debug\netcoreapp2.2\SqlInjection.csproj.CoreCompileInputs.cache
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\obj\Debug\netcoreapp2.2\SqlInjection.AssemblyInfoInputs.cache
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\obj\Debug\netcoreapp2.2\SqlInjection.AssemblyInfo.cs
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\bin\Debug\netcoreapp2.2\SqlInjection.deps.json
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\bin\Debug\netcoreapp2.2\SqlInjection.runtimeconfig.json
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\bin\Debug\netcoreapp2.2\SqlInjection.runtimeconfig.dev.json
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\bin\Debug\netcoreapp2.2\SqlInjection.dll
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\bin\Debug\netcoreapp2.2\SqlInjection.pdb
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\obj\Debug\netcoreapp2.2\SqlInjection.dll
+C:\Users\abalsam\source\repos\sqlInjection\sqlInjection\obj\Debug\netcoreapp2.2\SqlInjection.pdb
